@@ -4,20 +4,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
-<<<<<<< HEAD
-	<title>repl.it</title>
-=======
-	<title>SRTI</title>
->>>>>>> e2009ec97df7ea41345aa1db17a2457b46624579
 	<link href="style.css" rel="stylesheet" type="text/css" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<<<<<<< HEAD
-=======
-  <link rel="shortcut icon" href="./ourlogo!.png" type="image/x-icon">
->>>>>>> e2009ec97df7ea41345aa1db17a2457b46624579
-
+  <title>RKYHS.tech</title>
 </head>
 
 <body>
@@ -41,22 +32,10 @@
     </div>
   </div> 
   <a href="news.html">News</a>
-<<<<<<< HEAD
-=======
-    <a href="abtus.html">About Us</a>
-
->>>>>>> e2009ec97df7ea41345aa1db17a2457b46624579
     <a href="login.html">Login</a>
-
-
 </div>
-<h2> SRTI: </h2>
-<center><p>  Paragraph about SRTI </p> </center>
-<<<<<<< HEAD
+<center>
+<p>At RKYHS, we believe that technology and engineering should address problems in the world and we also believe that our students and the work we do in high school CAN be game changing in the world.  Through courses and clubs in Computer Science, Engineering and Robotics, RKYHS students develop strong skills while learning to apply these skills to world problems developing capstone projects.  Students compete in local and national SharkTank competitions with students from other Jewish day schools, from public high schools and even with college students and entrepreneurs - and we usually finish in the top 3. This is because of our focus on making our technology and engineering projects address real world problems, while focusing on an iterative prototyping design process.</p></center>
 
-=======
-<center><h4> Dr. Stein: </h4>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/459JSrWccwg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
->>>>>>> e2009ec97df7ea41345aa1db17a2457b46624579
 </body>
 </html>
